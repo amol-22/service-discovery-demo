@@ -1,0 +1,6 @@
+microservice\Services\MoviesService.class
+microservice\Services\RatingsService.class
+microservice\MainController\MainController.class
+microservice\Models\Movie.class
+microservice\Models\MovieRating.class
+microservice\Main.class
